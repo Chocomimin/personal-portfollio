@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfollio/static/css/main.9c980be5.css",
-    "main.js": "/personal-portfollio/static/js/main.efc49c8a.js",
+    "main.css": "/personal-portfollio/static/css/main.8fbf006b.css",
+    "main.js": "/personal-portfollio/static/js/main.689bd270.js",
     "static/media/alc.png": "/personal-portfollio/static/media/alc.45d3ca647e887f020e20.png",
     "static/media/ml.png": "/personal-portfollio/static/media/ml.c85032c311a1636487cc.png",
     "static/media/forage.png": "/personal-portfollio/static/media/forage.57b127398a8ebdba6ac6.png",
@@ -24,11 +24,11 @@
     "static/media/cv_meri_gogichashvili.pdf": "/personal-portfollio/static/media/cv_meri_gogichashvili.8be4addddb7f9d4f49aa.pdf",
     "static/media/WhatsApp Image 2024-05-15 at 15.29.25_3acaad93.jpg": "/personal-portfollio/static/media/WhatsApp Image 2024-05-15 at 15.29.25_3acaad93.6111d8cbca89edaa96f6.jpg",
     "index.html": "/personal-portfollio/index.html",
-    "main.9c980be5.css.map": "/personal-portfollio/static/css/main.9c980be5.css.map",
-    "main.efc49c8a.js.map": "/personal-portfollio/static/js/main.efc49c8a.js.map"
+    "main.8fbf006b.css.map": "/personal-portfollio/static/css/main.8fbf006b.css.map",
+    "main.689bd270.js.map": "/personal-portfollio/static/js/main.689bd270.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c980be5.css",
-    "static/js/main.efc49c8a.js"
+    "static/css/main.8fbf006b.css",
+    "static/js/main.689bd270.js"
   ]
 }
